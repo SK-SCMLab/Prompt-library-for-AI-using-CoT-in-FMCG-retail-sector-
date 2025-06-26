@@ -1,0 +1,1 @@
+# Prompt-library-for-AI-using-CoT-in-FMCG-retail-sector-
