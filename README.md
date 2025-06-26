@@ -42,3 +42,81 @@ FMCG retailers struggle with recurring stock-outs for fast-moving products
 - Specific actionable recommendations
 
 ---
+
+## 🧑‍🚒 Excess & Obsolete inventory
+
+### Introduction
+Think clearly about surplus stock and suggest ways to reduce waste
+
+### Context
+Excess or obsolete inventory is tying up working capital and causing write-offs
+- SKU Movement & Ageing: [Movement data]
+- Sell-through rate: [sell through data]
+- Expiry date: [expiry dates]
+
+### Think aloud (chain of thought)
+1. Identify SKUs with low turnover or nearing expiry
+2. Assess the root causes (over-ordering, forecasting error, slow sales)
+3. Suggest targeted clearance strategies (promotions, discounts, bundles)
+4. Propose long-term measures (forecasting adjustments, reivew of MOQ, vendor agreements)
+
+### Final output
+- List of slow-moving and obsolete SKUs
+- Clearance and long-term prevention recommendations
+
+---
+
+## 🏃 Price optimization against competition
+
+### Introduction
+Compare pricing and suggest competitive pricing strategies
+
+### Context
+Customers are shifting to competitors due to pricing discrepancies across key SKUs
+- SKU Prices across competitors: [competitor data]
+- Sales and profit margins: [sales profit data]
+- Customer segments and price sensitivity: [customer data]
+
+### Think aloud (chain of thought)
+1. Identify SKUs with significant pricing gaps vs competitors
+2. Evaluate the impact of pricing differences on sales and margins
+3. Identify SKUs where price adjustments can increase sales without compromising margins
+4. Suggest competitive pricing strategies for key SKUs
+
+### Final output
+- SKU-wise pricing discrepancy and impact
+- SKU-wise pricing recommendations
+- Strategies for aligning pricing with customer expectations
+
+---
+
+## 👓 Late deliveries from distributors
+
+### Introduction
+Pinpoint delays and purpose actionable improvements
+
+### Context
+Frequent delays from distributors affect product availability and customer satisfaction
+- Distributor Delivery times: [delivery data]
+- SKU Service level agreements: [SLA data]
+- Frequency and patterns of late deliveries: [late delivery data]
+
+### Think aloud (chain of thought)
+1. Identify SKUs with recurring delays and compare actual vs SLA times
+2. Analyze root causes (distributor constraints, order quantity, transportation)
+3. Recommend actionable improvements (alternate distributors, lead-time adjustments, buffer stock policies)
+4. Suggest metrics and reporting measures for ongoing performance monitoring
+
+### Final output
+- SKU-wise delay and root cause summary
+- Recommend corrective and preventive measures
+- Suggested metrics for performance monitoring
+
+---
+
+## 👒 Requirements
+- Essentials of Prompt engineering
+- Supply Chain concepts
+
+---
+*"A well-crafted prompt is like a key that unlocks the true potential of AI"*
